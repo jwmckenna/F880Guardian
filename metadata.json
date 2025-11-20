@@ -1,0 +1,8 @@
+{
+  "name": "F880 Guardian - Infection Control Surveillance",
+  "description": "A mobile-first auditing tool for Infection Preventionists in LTC facilities to monitor processes, generate QAPI reports, and ensure F880 compliance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
